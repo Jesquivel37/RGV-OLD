@@ -1,0 +1,29 @@
+{"2021" : [ {
+    "date" : "September 02", 
+    "agendaLink" : "./pdf/RGVECD Board of Managers Agenda 09 02 2021.pdf",
+    "agendaTitle" : "Initial Board Packet",
+    "minutesLink" : "./pdf/Meetings/October2021/RGV911BOM_MINUTES_September_2021_APPROVED.pdf",
+    "minutesTitle" : "Minutes"
+}, {
+    "date" : "October 20", 
+    "agendaLink" : "./pdf/RGVECD Board of Managers Agenda 10-20-2021.pdf",
+    "agendaTitle" : "Agenda Packet",
+    "minutesLink" : "",
+    "minutesTitle" : ""
+},
+{
+    "date" : "November 17", 
+    "agendaLink" : "./pdf/RGVECD Board of Managers Meeting Agenda  Packet 11-17-2021.pdf",
+    "agendaTitle" : "Agenda Packet",
+    "minutesLink" : "",
+    "minutesTitle" : ""
+},
+{
+    "date" : "December 15", 
+    "agendaLink" : "./pdf/RGVECD Board of Managers Meeting Agenda  Packet 12-15-2021.pdf",
+    "agendaTitle" : "Agenda Packet",
+    "minutesLink" : "",
+    "minutesTitle" : ""
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "lrg-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npm run serve -- --port 8007",
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.0",
+    "@fortawesome/free-solid-svg-icons": "^6.1.0",
+    "@fortawesome/vue-fontawesome": "^3.0.0-4",
+    "moment": "^2.29.1",
+    "pdf-lib": "^1.17.1",
+    "register-service-worker": "^1.7.2",
+    "sha1": "^1.1.1",
+    "swiper": "^5.4.5",
+    "vue": "^3.2.31",
+    "vue-animation-counter": "^1.0.30",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-pwa": "~5.0.3",
+    "@vue/cli-plugin-router": "~5.0.3",
+    "@vue/cli-plugin-vuex": "~5.0.3",
+    "@vue/cli-service": "~5.0.3",
+    "@vue/compiler-sfc": "^3.2.31"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
